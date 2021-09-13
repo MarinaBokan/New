@@ -1,1 +1,2 @@
-proba, vjezbanje
+proba, vjezbanje 
+da li vidis ovo na lokalu?
